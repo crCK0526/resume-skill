@@ -5,6 +5,10 @@ description: This skill should be used when a user provides scattered resume mat
 
 # Evidence-Based Resume PPT
 
+## 安装配置（首次使用必读）
+
+本 SKILL 默认绑定知识库路径 `E:\简历知识库`。请把本文件中所有 `E:\简历知识库` 替换为你本地知识库的实际路径（Windows / macOS / Linux 均可）。若路径不存在，SKILL 会自动降级为内置指引并提示；但仍建议先配置正确路径。
+
 ## Purpose
 
 Turn unstructured personal materials into a factual, concise, editable Chinese resume in PPTX format. Preserve evidence provenance, separate confirmed facts from assumptions, reproduce the reference resume's visual system rather than copying personal content, and verify the rendered page before delivery.
