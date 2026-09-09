@@ -1,0 +1,37 @@
+DEFAULT A4 SINGLE-PAGE RESUME SPECIFICATION
+
+Canvas
+- Portrait A4: 21.0 cm × 29.7 cm
+- One slide only
+- Background: #FFFFFF or #FAFBFD
+- Safe margin: 1.4-1.7 cm
+
+Typography
+- Chinese font: Microsoft YaHei or another confirmed installed sans-serif
+- Page label: 11-13 pt
+- Candidate name: 20-26 pt when used as primary heading
+- Section title: 11-13 pt, bold
+- Entry title: 10-11 pt, bold
+- Body: 9.5-10.5 pt
+- Dates: 9.5-10.5 pt, right aligned
+
+Color system
+- Primary blue: #0070C0
+- Dark blue: #1F3B63
+- Light blue: #8EAADB
+- Main text: #1E1E1E
+- Secondary text: #595959
+
+Layout
+- Preserve the reference resume's hierarchy when provided.
+- Prefer a compact two-column basic-information block followed by a single-column content area.
+- Keep section dividers consistent in length and weight.
+- Use a portrait placeholder only when no approved photo exists.
+- Avoid skill-rating dots, progress bars, or decorative sidebars unless requested or evidenced.
+
+Quality thresholds
+- No body text below 9 pt.
+- No text overflow or clipped lines.
+- No unresolved placeholder in a final version.
+- No full-page image used as the editable resume body.
+- Keep all substantive text and shapes editable.
